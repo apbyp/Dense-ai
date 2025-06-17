@@ -1,0 +1,5 @@
+{
+  "name": "Dense AI",
+  "description": "A responsive chat application built with React, TypeScript, and Tailwind CSS, powered by the Google Gemini API for real-time AI-assisted conversations.",
+  "requestFramePermissions": []
+}
